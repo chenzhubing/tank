@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tank"
+  id="myeclipse.1473053606922"
+  context-root="/tank"
+  j2ee-spec="5.0"
+  archive="tank.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
